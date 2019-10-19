@@ -2,7 +2,7 @@
 
 echo 
 echo Make sure you install required build dependencies by executing
-echo pkg install git cmake libX11 libXrandr libXinerama libXcursor xinput apache-ant dyncall
+echo pkg install git cmake libX11 libXrandr libXinerama libXcursor xinput apache-ant dyncall qt5-buildtools qt5-qmake
 echo 
 # (there might be more that I've missed)
 
